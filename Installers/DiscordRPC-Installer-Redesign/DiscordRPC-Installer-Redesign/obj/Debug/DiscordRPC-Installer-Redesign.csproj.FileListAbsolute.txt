@@ -1,0 +1,9 @@
+C:\Users\Prifixy\source\repos\DiscordRPC-Installer-Redesign\DiscordRPC-Installer-Redesign\bin\Debug\DiscordRPC-Installer-Redesign.exe.config
+C:\Users\Prifixy\source\repos\DiscordRPC-Installer-Redesign\DiscordRPC-Installer-Redesign\bin\Debug\DiscordRPC-Installer-Redesign.exe
+C:\Users\Prifixy\source\repos\DiscordRPC-Installer-Redesign\DiscordRPC-Installer-Redesign\bin\Debug\DiscordRPC-Installer-Redesign.pdb
+C:\Users\Prifixy\source\repos\DiscordRPC-Installer-Redesign\DiscordRPC-Installer-Redesign\obj\Debug\DiscordRPC_Installer_Redesign.MainForm.resources
+C:\Users\Prifixy\source\repos\DiscordRPC-Installer-Redesign\DiscordRPC-Installer-Redesign\obj\Debug\DiscordRPC_Installer_Redesign.Properties.Resources.resources
+C:\Users\Prifixy\source\repos\DiscordRPC-Installer-Redesign\DiscordRPC-Installer-Redesign\obj\Debug\DiscordRPC-Installer-Redesign.csproj.GenerateResource.cache
+C:\Users\Prifixy\source\repos\DiscordRPC-Installer-Redesign\DiscordRPC-Installer-Redesign\obj\Debug\DiscordRPC-Installer-Redesign.csproj.CoreCompileInputs.cache
+C:\Users\Prifixy\source\repos\DiscordRPC-Installer-Redesign\DiscordRPC-Installer-Redesign\obj\Debug\DiscordRPC-Installer-Redesign.exe
+C:\Users\Prifixy\source\repos\DiscordRPC-Installer-Redesign\DiscordRPC-Installer-Redesign\obj\Debug\DiscordRPC-Installer-Redesign.pdb
